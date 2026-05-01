@@ -2,6 +2,6 @@
 
 Static presentation site for:
 
-**Preliminary Research: The Formation and Dissolution of Muqarnas as Religious Expression**
+**Muqarnas Beyond Divinity: From Sacred Geometry to Secular Spiritual Space**
 
 Open `index.html` directly, or publish the folder with GitHub Pages.
